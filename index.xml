@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to Aditya Rao&#39;s Portfolio on </title>
+    <link>https://www.adrianmoreno.info/</link>
+    <description>Recent content in Welcome to Aditya Rao&#39;s Portfolio on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.adrianmoreno.info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Custom Firmware and iOS Integration for Medical Implants</title>
+      <link>https://www.adrianmoreno.info/projects/005-ucberkeley-wireless-project-copy/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.adrianmoreno.info/projects/005-ucberkeley-wireless-project-copy/</guid>
+      <description>&lt;p&gt;The project involved designing and implementing Autotest drivers to streamline hardware testing processes, ensuring precision, reliability, and scalability for Falcon rocket components under demanding conditions. A critical aspect was automating sensor calibration to maintain the integrity of real-time data across extended testing cycles.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-contributions&#34;&gt;Key Contributions:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Methodology Development&lt;/strong&gt;: Designed and implemented a novel loopback testing method to synchronize time sources effectively, overcoming both hardware and software limitations.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Validation&lt;/strong&gt;: Conducted comprehensive oscilloscope testing and software simulations to ensure precision and consistency across various scenarios.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Team Collaboration&lt;/strong&gt;: Worked closely with engineers and test operators to integrate the solution into broader lunar lander systems.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;impact&#34;&gt;Impact:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Achieved precise latency measurements with 1.66-millisecond accuracy, surpassing initial targets.&lt;/li&gt;&#xA;&lt;li&gt;Enhanced data synchronization reliability across lunar lander systems, contributing to mission success.&lt;/li&gt;&#xA;&lt;li&gt;Demonstrated the scalability of the loopback testing method for other aerospace applications.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Job #3</title>
+      <link>https://www.adrianmoreno.info/experience/job-3/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0100</pubDate>
+      <guid>https://www.adrianmoreno.info/experience/job-3/</guid>
+      <description>&lt;h3 id=&#34;fixing-the-world-one-byte-at-a-time&#34;&gt;Fixing the world, one byte at a time&lt;/h3&gt;&#xA;&lt;p&gt;Hostile takeover - who is the boss now!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Latency Analysis for Lunar Lander Test Bed</title>
+      <link>https://www.adrianmoreno.info/projects/004-blueorigin-vtb-project/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.adrianmoreno.info/projects/004-blueorigin-vtb-project/</guid>
+      <description>&lt;p&gt;This project tackled the critical challenge of achieving precise sub-millisecond latency measurements within the Lunar Lander Test Bed, essential for maintaining reliable data synchronization during mission-critical operations. The innovative methods developed met the stringent performance criteria of lunar exploration.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-contributions&#34;&gt;Key Contributions:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Methodology Development&lt;/strong&gt;: Designed and implemented a novel loopback testing method to synchronize time sources effectively, overcoming both hardware and software limitations.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Validation&lt;/strong&gt;: Conducted comprehensive oscilloscope testing and software simulations to ensure precision and consistency across various scenarios.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Team Collaboration&lt;/strong&gt;: Worked closely with engineers and test operators to integrate the solution into broader lunar lander systems.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;impact&#34;&gt;Impact:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Achieved precise latency measurements with 1.66-millisecond accuracy, surpassing initial targets.&lt;/li&gt;&#xA;&lt;li&gt;Enhanced data synchronization reliability across lunar lander systems, contributing to mission success.&lt;/li&gt;&#xA;&lt;li&gt;Demonstrated the scalability of the loopback testing method for other aerospace applications.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Sample blog content 3</title>
+      <link>https://www.adrianmoreno.info/blog/sample-3/</link>
+      <pubDate>Mon, 24 Jun 2024 14:38:33 +0200</pubDate>
+      <guid>https://www.adrianmoreno.info/blog/sample-3/</guid>
+      <description>&lt;p&gt;Sample blog content. Like a lorem ipsum but saying something more interesting.&lt;/p&gt;&#xA;&lt;p&gt;Welcome to the world of &amp;ldquo;Content Ipsum,&amp;rdquo; the fresh alternative to the classic lorem ipsum. It&amp;rsquo;s the perfect blend for designers and writers who crave a dash of creativity and meaning in their placeholder text. Imagine a text that not only fills the space but also sparks the imagination, a text that weaves tales of innovation, inspiration, and the endless possibilities that creativity brings.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sample blog content 2</title>
+      <link>https://www.adrianmoreno.info/blog/sample-2/</link>
+      <pubDate>Sun, 23 Jun 2024 14:38:33 +0200</pubDate>
+      <guid>https://www.adrianmoreno.info/blog/sample-2/</guid>
+      <description>&lt;p&gt;Sample blog content. Like a lorem ipsum but saying something more interesting.&lt;/p&gt;&#xA;&lt;p&gt;Welcome to the world of &amp;ldquo;Content Ipsum,&amp;rdquo; the fresh alternative to the classic lorem ipsum. It&amp;rsquo;s the perfect blend for designers and writers who crave a dash of creativity and meaning in their placeholder text. Imagine a text that not only fills the space but also sparks the imagination, a text that weaves tales of innovation, inspiration, and the endless possibilities that creativity brings.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sample blog content 1</title>
+      <link>https://www.adrianmoreno.info/blog/sample/</link>
+      <pubDate>Fri, 21 Jun 2024 14:38:33 +0200</pubDate>
+      <guid>https://www.adrianmoreno.info/blog/sample/</guid>
+      <description>&lt;p&gt;Sample blog content. Like a lorem ipsum but saying something more interesting.&lt;/p&gt;&#xA;&lt;p&gt;Welcome to the world of &amp;ldquo;Content Ipsum,&amp;rdquo; the fresh alternative to the classic lorem ipsum. It&amp;rsquo;s the perfect blend for designers and writers who crave a dash of creativity and meaning in their placeholder text. Imagine a text that not only fills the space but also sparks the imagination, a text that weaves tales of innovation, inspiration, and the endless possibilities that creativity brings.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Automation for High-Fidelity Hardware Testing</title>
+      <link>https://www.adrianmoreno.info/projects/003-spacex-autotest-project/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.adrianmoreno.info/projects/003-spacex-autotest-project/</guid>
+      <description>&lt;p&gt;The project involved designing and implementing Autotest drivers to streamline hardware testing processes, ensuring precision, reliability, and scalability for Falcon rocket components under demanding conditions. A critical aspect was automating sensor calibration to maintain the integrity of real-time data across extended testing cycles.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-contributions&#34;&gt;Key Contributions:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Methodology Development&lt;/strong&gt;: Designed and implemented a novel loopback testing method to synchronize time sources effectively, overcoming both hardware and software limitations.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Validation&lt;/strong&gt;: Conducted comprehensive oscilloscope testing and software simulations to ensure precision and consistency across various scenarios.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Team Collaboration&lt;/strong&gt;: Worked closely with engineers and test operators to integrate the solution into broader lunar lander systems.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;impact&#34;&gt;Impact:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Achieved precise latency measurements with 1.66-millisecond accuracy, surpassing initial targets.&lt;/li&gt;&#xA;&lt;li&gt;Enhanced data synchronization reliability across lunar lander systems, contributing to mission success.&lt;/li&gt;&#xA;&lt;li&gt;Demonstrated the scalability of the loopback testing method for other aerospace applications.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Job #2</title>
+      <link>https://www.adrianmoreno.info/experience/job-2/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0100</pubDate>
+      <guid>https://www.adrianmoreno.info/experience/job-2/</guid>
+      <description>&lt;h3 id=&#34;fixing-the-world-one-byte-at-a-time&#34;&gt;Fixing the world, one byte at a time&lt;/h3&gt;&#xA;&lt;p&gt;Continuing the quest.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Automation for High-Fidelity Hardware Testing</title>
+      <link>https://www.adrianmoreno.info/projects/002-blueorigin-derating-project/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.adrianmoreno.info/projects/002-blueorigin-derating-project/</guid>
+      <description>&lt;p&gt;The project involved designing and implementing Autotest drivers to streamline hardware testing processes, ensuring precision, reliability, and scalability for Falcon rocket components under demanding conditions. A critical aspect was automating sensor calibration to maintain the integrity of real-time data across extended testing cycles.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-contributions&#34;&gt;Key Contributions:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Methodology Development&lt;/strong&gt;: Designed and implemented a novel loopback testing method to synchronize time sources effectively, overcoming both hardware and software limitations.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Validation&lt;/strong&gt;: Conducted comprehensive oscilloscope testing and software simulations to ensure precision and consistency across various scenarios.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Team Collaboration&lt;/strong&gt;: Worked closely with engineers and test operators to integrate the solution into broader lunar lander systems.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;impact&#34;&gt;Impact:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Achieved precise latency measurements with 1.66-millisecond accuracy, surpassing initial targets.&lt;/li&gt;&#xA;&lt;li&gt;Enhanced data synchronization reliability across lunar lander systems, contributing to mission success.&lt;/li&gt;&#xA;&lt;li&gt;Demonstrated the scalability of the loopback testing method for other aerospace applications.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Job #1</title>
+      <link>https://www.adrianmoreno.info/experience/job-1/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0100</pubDate>
+      <guid>https://www.adrianmoreno.info/experience/job-1/</guid>
+      <description>&lt;h3 id=&#34;fixing-the-world-one-byte-at-a-time&#34;&gt;Fixing the world, one byte at a time&lt;/h3&gt;&#xA;&lt;p&gt;The beginning of a great career.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Real-Time Telemetry System for Lunar Missions</title>
+      <link>https://www.adrianmoreno.info/projects/001-iris-lunar-project/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.adrianmoreno.info/projects/001-iris-lunar-project/</guid>
+      <description>&lt;p&gt;The Iris Lunar Rover project aimed to design advanced mission-critical systems for lunar exploration, emphasizing reliability and performance in harsh, remote environments. As part of the mission, I developed a real-time telemetry system to monitor the rover’s health and predict potential failures during critical operations.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-contributions&#34;&gt;Key Contributions:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Telemetry Interface Design&lt;/strong&gt;: Created a front-end system providing real-time data insights for quick diagnostics and informed decision-making during missions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Predictive Failure Analysis&lt;/strong&gt;: Developed algorithms to forecast subsystem malfunctions, reducing downtime risks.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Software-Hardware Integration&lt;/strong&gt;: Collaborated with a multidisciplinary team to ensure seamless communication and data processing.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;impact&#34;&gt;Impact:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Reliability&lt;/strong&gt;: Achieved 95% system reliability in monitoring critical subsystems.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Operational Safety&lt;/strong&gt;: Enhanced operational safety by identifying and addressing potential disruptions preemptively.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Scalability&lt;/strong&gt;: Established a scalable telemetry framework adaptable for future planetary missions.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
