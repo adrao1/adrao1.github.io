@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on </title>
-    <link>https://www.adrianmoreno.info/projects/</link>
+    <link>https://adrao1.github.io/projects/</link>
     <description>Recent content in Projects on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.adrianmoreno.info/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://adrao1.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Custom Firmware and iOS Integration for Medical Implants</title>
-      <link>https://www.adrianmoreno.info/projects/005-ucberkeley-wireless-project-copy/</link>
+      <link>https://adrao1.github.io/projects/005-ucberkeley-wireless-project-copy/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.adrianmoreno.info/projects/005-ucberkeley-wireless-project-copy/</guid>
+      <guid>https://adrao1.github.io/projects/005-ucberkeley-wireless-project-copy/</guid>
       <description>&lt;p&gt;The project involved designing and implementing Autotest drivers to streamline hardware testing processes, ensuring precision, reliability, and scalability for Falcon rocket components under demanding conditions. A critical aspect was automating sensor calibration to maintain the integrity of real-time data across extended testing cycles.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-contributions&#34;&gt;Key Contributions:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Methodology Development&lt;/strong&gt;: Designed and implemented a novel loopback testing method to synchronize time sources effectively, overcoming both hardware and software limitations.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Validation&lt;/strong&gt;: Conducted comprehensive oscilloscope testing and software simulations to ensure precision and consistency across various scenarios.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Team Collaboration&lt;/strong&gt;: Worked closely with engineers and test operators to integrate the solution into broader lunar lander systems.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;impact&#34;&gt;Impact:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Achieved precise latency measurements with 1.66-millisecond accuracy, surpassing initial targets.&lt;/li&gt;&#xA;&lt;li&gt;Enhanced data synchronization reliability across lunar lander systems, contributing to mission success.&lt;/li&gt;&#xA;&lt;li&gt;Demonstrated the scalability of the loopback testing method for other aerospace applications.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Latency Analysis for Lunar Lander Test Bed</title>
-      <link>https://www.adrianmoreno.info/projects/004-blueorigin-vtb-project/</link>
+      <link>https://adrao1.github.io/projects/004-blueorigin-vtb-project/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.adrianmoreno.info/projects/004-blueorigin-vtb-project/</guid>
+      <guid>https://adrao1.github.io/projects/004-blueorigin-vtb-project/</guid>
       <description>&lt;p&gt;This project tackled the critical challenge of achieving precise sub-millisecond latency measurements within the Lunar Lander Test Bed, essential for maintaining reliable data synchronization during mission-critical operations. The innovative methods developed met the stringent performance criteria of lunar exploration.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-contributions&#34;&gt;Key Contributions:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Methodology Development&lt;/strong&gt;: Designed and implemented a novel loopback testing method to synchronize time sources effectively, overcoming both hardware and software limitations.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Validation&lt;/strong&gt;: Conducted comprehensive oscilloscope testing and software simulations to ensure precision and consistency across various scenarios.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Team Collaboration&lt;/strong&gt;: Worked closely with engineers and test operators to integrate the solution into broader lunar lander systems.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;impact&#34;&gt;Impact:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Achieved precise latency measurements with 1.66-millisecond accuracy, surpassing initial targets.&lt;/li&gt;&#xA;&lt;li&gt;Enhanced data synchronization reliability across lunar lander systems, contributing to mission success.&lt;/li&gt;&#xA;&lt;li&gt;Demonstrated the scalability of the loopback testing method for other aerospace applications.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Automation for High-Fidelity Hardware Testing</title>
-      <link>https://www.adrianmoreno.info/projects/003-spacex-autotest-project/</link>
+      <link>https://adrao1.github.io/projects/003-spacex-autotest-project/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.adrianmoreno.info/projects/003-spacex-autotest-project/</guid>
+      <guid>https://adrao1.github.io/projects/003-spacex-autotest-project/</guid>
       <description>&lt;p&gt;The project involved designing and implementing Autotest drivers to streamline hardware testing processes, ensuring precision, reliability, and scalability for Falcon rocket components under demanding conditions. A critical aspect was automating sensor calibration to maintain the integrity of real-time data across extended testing cycles.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-contributions&#34;&gt;Key Contributions:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Methodology Development&lt;/strong&gt;: Designed and implemented a novel loopback testing method to synchronize time sources effectively, overcoming both hardware and software limitations.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Validation&lt;/strong&gt;: Conducted comprehensive oscilloscope testing and software simulations to ensure precision and consistency across various scenarios.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Team Collaboration&lt;/strong&gt;: Worked closely with engineers and test operators to integrate the solution into broader lunar lander systems.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;impact&#34;&gt;Impact:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Achieved precise latency measurements with 1.66-millisecond accuracy, surpassing initial targets.&lt;/li&gt;&#xA;&lt;li&gt;Enhanced data synchronization reliability across lunar lander systems, contributing to mission success.&lt;/li&gt;&#xA;&lt;li&gt;Demonstrated the scalability of the loopback testing method for other aerospace applications.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Automation for High-Fidelity Hardware Testing</title>
-      <link>https://www.adrianmoreno.info/projects/002-blueorigin-derating-project/</link>
+      <link>https://adrao1.github.io/projects/002-blueorigin-derating-project/</link>
       <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.adrianmoreno.info/projects/002-blueorigin-derating-project/</guid>
+      <guid>https://adrao1.github.io/projects/002-blueorigin-derating-project/</guid>
       <description>&lt;p&gt;The project involved designing and implementing Autotest drivers to streamline hardware testing processes, ensuring precision, reliability, and scalability for Falcon rocket components under demanding conditions. A critical aspect was automating sensor calibration to maintain the integrity of real-time data across extended testing cycles.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-contributions&#34;&gt;Key Contributions:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Methodology Development&lt;/strong&gt;: Designed and implemented a novel loopback testing method to synchronize time sources effectively, overcoming both hardware and software limitations.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Validation&lt;/strong&gt;: Conducted comprehensive oscilloscope testing and software simulations to ensure precision and consistency across various scenarios.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Team Collaboration&lt;/strong&gt;: Worked closely with engineers and test operators to integrate the solution into broader lunar lander systems.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;impact&#34;&gt;Impact:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Achieved precise latency measurements with 1.66-millisecond accuracy, surpassing initial targets.&lt;/li&gt;&#xA;&lt;li&gt;Enhanced data synchronization reliability across lunar lander systems, contributing to mission success.&lt;/li&gt;&#xA;&lt;li&gt;Demonstrated the scalability of the loopback testing method for other aerospace applications.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Real-Time Telemetry System for Lunar Missions</title>
-      <link>https://www.adrianmoreno.info/projects/001-iris-lunar-project/</link>
+      <link>https://adrao1.github.io/projects/001-iris-lunar-project/</link>
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.adrianmoreno.info/projects/001-iris-lunar-project/</guid>
+      <guid>https://adrao1.github.io/projects/001-iris-lunar-project/</guid>
       <description>&lt;p&gt;The Iris Lunar Rover project aimed to design advanced mission-critical systems for lunar exploration, emphasizing reliability and performance in harsh, remote environments. As part of the mission, I developed a real-time telemetry system to monitor the rover’s health and predict potential failures during critical operations.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-contributions&#34;&gt;Key Contributions:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Telemetry Interface Design&lt;/strong&gt;: Created a front-end system providing real-time data insights for quick diagnostics and informed decision-making during missions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Predictive Failure Analysis&lt;/strong&gt;: Developed algorithms to forecast subsystem malfunctions, reducing downtime risks.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Software-Hardware Integration&lt;/strong&gt;: Collaborated with a multidisciplinary team to ensure seamless communication and data processing.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;impact&#34;&gt;Impact:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Reliability&lt;/strong&gt;: Achieved 95% system reliability in monitoring critical subsystems.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Operational Safety&lt;/strong&gt;: Enhanced operational safety by identifying and addressing potential disruptions preemptively.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Scalability&lt;/strong&gt;: Established a scalable telemetry framework adaptable for future planetary missions.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
